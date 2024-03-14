@@ -1,5 +1,6 @@
 This application integrates a RabbitMQ server, an API to generate random users, and a SQL database through Entity Framework. 
 See youtubevideo for live demo and more details about the project. 
+https://www.youtube.com/watch?v=LMd3kXYdXYo
 
 The purpose of this project is to learn and explore about messagebrokers. 
 
